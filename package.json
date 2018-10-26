@@ -1,0 +1,22 @@
+{
+  "name": "hw",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "fetch-timeout": "0.0.2",
+    "jquery": "^3.3.1",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "react-google-login": "^3.2.1",
+    "react-google-login-component": "^0.9.3",
+    "react-redux": "^5.0.7",
+    "react-scripts": "1.1.4",
+    "redux": "^4.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
